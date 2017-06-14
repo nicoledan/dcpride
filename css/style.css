@@ -79,6 +79,8 @@ h1 {
   font-weight: bold;
   /* color: #F89C08; */
   text-align: center;
+  padding-bottom: 20px;
+  margin-top:0;
 }
 
 h2 {
@@ -113,9 +115,9 @@ a:link, a:active {
 }
 
 a:visited {
-  color: #FF7FD1;
+  color: #3ecbfa;
 }
 
 a:hover {
-    color: #3ecbfa;
+    color: #AD7BFF;
 }
